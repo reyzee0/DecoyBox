@@ -6,7 +6,7 @@
 > On other devices they open a **decoy**, show a **popup**, or **block** — your choice.
 
 <p align="center">
-  <img alt="StealthSeal GUI" src="examples/screenshots/app.png" width="520">
+  <img alt="StealthSeal GUI" src="https://pbs.twimg.com/media/E31zHcLVEAgcEBK?format=jpg&name=small" width="520">
 </p>
 
 ## ✨ Features
