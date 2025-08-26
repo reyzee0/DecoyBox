@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # StealthSeal Pro — single-file, same-extension sealing with Argon2id, header MAC, password, audit logs, progress, and custom foreign behavior.
 # Deps: cryptography, reportlab, pillow, argon2-cffi
-# Build EXE (Win): pyinstaller --onefile --noconsole stealthseal_pro.py
 
 import os, sys, json, base64, hashlib, time, tempfile, subprocess, platform, threading
 from pathlib import Path
