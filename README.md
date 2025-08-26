@@ -18,7 +18,6 @@
 - 🔐 **Optional per-file password** on top of device lock
 - 🧪 **Decoys that look real** for PDF/PNG/JPG/TXT/CSV/JSON (generic fallback for others)
 - 🧰 **Same extension** output (e.g., `report.pdf` stays `.pdf`) using polyglot layout
-- 🧾 **Audit logs** (allow/decoy/block/tamper) to `~/.stealthseal/events.jsonl`
 - 🗝️ **Master key import/export** (authorize a second device if desired)
 - ⚙️ **Foreign behavior policy** per file: `decoy` | `popup` (custom text) | `block`
 
