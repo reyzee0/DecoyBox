@@ -1,4 +1,4 @@
-# StealthSeal Pro 🔒
+# DecoyBox 🔒
 
 **Same-extension file sealing with believable decoys, host-locking, optional passwords, and one-click UX.**
 
